@@ -1,2 +1,4 @@
 # Terraform
-Terraform IAC Code
+Terraform IaaC Code
+
+Initial Creation
